@@ -1,0 +1,2 @@
+global AIM;
+aaa=AIM;
